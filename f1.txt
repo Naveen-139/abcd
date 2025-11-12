@@ -1,2 +1,6 @@
 praveen is topper
+<<<<<<< HEAD
 hii
+=======
+one more line
+>>>>>>> naveen
